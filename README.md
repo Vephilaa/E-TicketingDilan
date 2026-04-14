@@ -154,13 +154,13 @@ Buka browser dan akses: `http://localhost/dilanapi/`
 ## Akun Default
 
 ### Admin
-- **Username**: admin
-- **Password**: admin123
-- **Email**: admin@dilanairlines.com
+- **Username**: duvadilan
+- **Password**: Davin1702
+- **Email**: davinrheyadi1702@gmail.com
 
 ### User Demo
-- **Username**: user
-- **Password**: user123
+- **Username**: gunawan
+- **Password**: Gunawan123
 - **Email**: user@example.com
 
 ## Fitur Keamanan
